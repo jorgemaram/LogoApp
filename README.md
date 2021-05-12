@@ -25,10 +25,11 @@ $ npm start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 
 ### View on screen
 
 However, if you prefer go straight to your desktop, you should click on <https://logoapp.netlify.app/>.\
-If you prefer check the responsive view for smartphones, you could click on that link on your smartphone or you should press `F12` on Google Chrome, click on `Toggle device toolbar` and select one of smartphone's views (I used iPhoneX's view).\ 
+If you prefer check the responsive view for smartphones, you could click on that link on your smartphone or you should press `F12` on Google Chrome, click on `Toggle device toolbar` and select one of smartphone's views (I used iPhoneX's view).
+
 If you cannot see properly, do not worry, just refresh the webpage and you will be able to find these changes!
