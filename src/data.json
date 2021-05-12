@@ -1,0 +1,134 @@
+{
+    "cover": [
+        {
+            "post_id": 1,
+            "title": "Entrada destacada - Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae purus lobortis",
+            "date_post": "01/05/2021",
+            "category": {
+                "id": "1",
+                "name": "Lugares"
+            },
+            "subcategory": {
+                "id": "1",
+                "name": "Madrid"
+            },
+            "author": {
+                "name": "Roberto Barrancas"
+            },
+            "cover_image": {
+                "url": "http://espanafascinante.com/test/images/01.png"
+            },
+            "readtime": "3 min"
+        }
+    ],
+    "category": [
+        {
+            "post_id": 2,
+            "title": "Entrada categoria 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae purus lobortis",
+            "date_post": "01/05/2021",
+            "category": {
+                "id": "1",
+                "name": "Lugares"
+            },
+            "subcategory": {
+                "id": "1",
+                "name": "Madrid"
+            },
+            "author": {
+                "name": "Roberto Barrancas"
+            },
+            "cover_image": {
+                "url": "http://espanafascinante.com/test/images/02.png"
+            },
+            "readtime": "2 min"
+        },
+        {
+            "post_id": 3,
+            "title": "Entrada categoria 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae purus lobortis",
+            "date_post": "01/05/2021",
+            "category": {
+                "id": "1",
+                "name": "Lugares"
+            },
+            "subcategory": {
+                "id": "1",
+                "name": "Madrid"
+            },
+            "author": {
+                "name": "Roberto Barrancas"
+            },
+            "cover_image": {
+                "url": "http://espanafascinante.com/test/images/03.png"
+            },
+            "readtime": "1 min"
+        },
+        {
+            "post_id": 4,
+            "title": "Entrada categoria 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae purus lobortis",
+            "date_post": "01/05/2021",
+            "category": {
+                "id": "1",
+                "name": "Comidas"
+            },
+            "subcategory": {
+                "id": "1",
+                "name": "Cadiz"
+            },
+            "author": {
+                "name": "Andrea Hornopirén"
+            },
+            "cover_image": {
+                "url": "http://espanafascinante.com/test/images/04.png"
+            },
+            "readtime": "5 min"
+        }
+    ],
+    "random": [
+        {
+            "post_id": 5,
+            "title": "Entrada Top 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae purus lobortis",
+            "date_post": "02/05/2021",
+            "category": {
+                "id": "1",
+                "name": "Lugares"
+            },
+            "subcategory": {
+                "id": "1",
+                "name": "Zaragoza"
+            },
+            "author": {
+                "name": "Andrés Petancas"
+            },
+            "cover_image": {
+                "url": "http://espanafascinante.com/test/images/05.png"
+            },
+            "readtime": "15 min"
+        },
+        {
+            "post_id": 6,
+            "title": "Entrada Top 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae purus lobortis",
+            "date_post": "13/05/2020",
+            "category": {
+                "id": "1",
+                "name": "Lugares"
+            },
+            "subcategory": {
+                "id": "1",
+                "name": "Barcelona"
+            },
+            "author": {
+                "name": "Roberto Barrancas"
+            },
+            "cover_image": {
+                "url": "http://espanafascinante.com/test/images/01.png"
+            },
+            "readtime": "7 min"
+        }
+    ]
+}

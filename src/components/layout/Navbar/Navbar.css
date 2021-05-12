@@ -1,0 +1,14 @@
+.subnavbar{
+    background-color: rgb(178, 34, 79);
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration-line: none;
+}
+a:hover
+        {
+        color: white;
+    } 

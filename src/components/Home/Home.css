@@ -1,0 +1,94 @@
+h1{
+    font-size: 38px;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(127, 24, 57);
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+h5{
+    margin-bottom: 15px;
+}
+
+h1, h4, h5 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    line-height: 93%;
+}
+
+h6, small {
+    font-family: 'Spartan', sans-serif;
+    color: rgb(142, 120, 132);
+}
+
+p, li {
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-top: 1px solid rgb(127, 24, 57);
+    margin: 0;
+}
+
+p {
+    color: rgb(76,64,71);
+}
+
+.mainpic {
+    margin: 10px auto;
+    width: 100%;
+}
+
+.logo {
+    width: 30px;
+    margin: 5px 0 5px 15px;
+}
+
+.white-logo {
+    width: 30px;
+    margin: 5px 0 5px 15px;
+}
+
+.bold{
+    font-weight: 900;
+}
+
+.highlighted{
+    text-transform: uppercase;
+}
+
+.read-more{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(127, 24, 57);
+    font-size: 22px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media only screen and (max-width: 415px) {
+    .logo {
+    width: 20px;
+    margin: 7px;
+    }
+}
+
+.mini-c{
+    background: linear-gradient(0deg, rgba(255,255,255,0.19681375968356096) 0%, rgba(255,255,255,1) 100%, url('http://espanafascinante.com/test/images/01.png'));
+}
+
+.mini {
+    position: absolute;
+    left: 0;
+    top: 229px;
+    width: 87%;
+    height: 30%;
+    opacity: .7;
+    z-index: -1;
+    transform: scale(1.3);
+}
