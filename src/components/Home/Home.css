@@ -85,10 +85,16 @@ p {
 .mini {
     position: absolute;
     left: 0;
-    top: 229px;
+    top: 213px;
     width: 87%;
-    height: 30%;
+    height: 29%;
     opacity: .7;
     z-index: -1;
     transform: scale(1.3);
+}
+
+@media only screen and (max-width: 360px) {
+    .mini {
+        height: 38%;
+    }
 }

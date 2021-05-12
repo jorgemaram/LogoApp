@@ -16,7 +16,7 @@ const MiniCoverCard = ({ author, category, cover_image, date_post, readtime, sub
 
     return (
         <>
-            <Col className='mt-5 mb-4'>
+            <Col className='mt-4 mb-4'>
                 <h6 className="highlighted"><span className="bold">{category.name}</span> |  {subcategory.name} </h6>
                 <h1>{title}.</h1>
                 <Text>{summary}.</Text>
